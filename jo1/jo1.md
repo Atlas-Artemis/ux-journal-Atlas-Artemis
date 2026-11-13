@@ -1,0 +1,1 @@
+Hotstock.io journal

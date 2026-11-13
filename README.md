@@ -12,4 +12,4 @@ I am a comp sci major at Chico state from Torrance, CA a city in the south of LA
 
 ## UX Journal
 
-[First Journal Entry](https://atlas-artemis.github.io/ux-journal-Atlas-Artemis/jo1)
+[First Journal Entry](https://atlas-artemis.github.io/ux-journal-Atlas-Artemis/jo1/)

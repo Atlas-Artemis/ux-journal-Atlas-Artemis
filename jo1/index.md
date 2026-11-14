@@ -4,7 +4,7 @@
 
 Recently my college class on User experience and design was looking at different competitor's applications to analyze their designs. Through it I came across HotStock.io, a site that lets you set notification for stock alerts for a product. I thought to myself in class that it may be something I need for buying gifts for the holidays soon. That's when I started to use it and realized how simple yet useful it is to make alerts for products you would like to buy.
 
-<img width="1394" height="640" alt="image" src="https://github.com/user-attachments/assets/7a7aa7be-9d2c-4a01-ad81-c025c2f20f0a" />
+<img width="1294" height="600" alt="image" src="https://github.com/user-attachments/assets/7a7aa7be-9d2c-4a01-ad81-c025c2f20f0a" />
 
 Like most shopping sites I started at a main page that gave me the usual format with a way to sign up/in, browse products and search for them too. Ther first thing I noticed was the instructions due to their **hierarchy** placement, being right at the top of the page, I felt like it was uncommon to have the instructions right out there in the open like that. But thinking to myself for a moment made me think it was smart as someone coming across this site randomly would not have a clue what its truly for without that. It also makes sense that it felt uncommon as most other sites people use are popular enough to know what they are for before going on them. 
 

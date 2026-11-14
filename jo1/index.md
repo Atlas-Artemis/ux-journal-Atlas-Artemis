@@ -1,1 +1,2 @@
-Hotstock.io journal
+## Tracking Products with HotStock.io
+
